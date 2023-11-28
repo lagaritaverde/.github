@@ -1,2 +1,1 @@
-# .github
-This is La Garita Verde!
+# This is La Garita Verde!
